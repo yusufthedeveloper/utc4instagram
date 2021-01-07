@@ -4,7 +4,6 @@ Bu program instagram yorumu yapan kullanıcıdan  kullanıcı etiketlerini (örn
 ![Program Image](https://imgur.com/download/lOjI5VN/)
 
 **Kullanımı :**
-
 1 - Yarışma gönderisi paylaşın (yoruma en çok etiket atan kazanır) şeklinde.
 
 2 - Bir kaç kişiyi başka bir yorumda gönderinizde etiketleyin
@@ -18,3 +17,15 @@ Bu program instagram yorumu yapan kullanıcıdan  kullanıcı etiketlerini (örn
 6 - Sonra "Yarışmayı Bitir" butonuna basarak programın çalışmasını sonlandırın.
 
 7 - sonuçlar.txt dosyasında sonuçlar listelenmiştir hayırlı olsun !!
+
+**Indırme Linkleri:**
+
+[GitHub](https://github.com/yusufthedeveloper/utc4instagram/releases/tag/1.0)
+
+**Bağış Yapın:**
+
+Çalışmalarımızı ücretsiz ve açık kaynaklı yayınlayarak sizi karşılıksız seviyoruz sizde bizi seviyosanız aşağidaki bağış kanallarından bağış yapabilirisiniz:
+
+**Papara cüzdan kodu :** 7552529826
+
+
