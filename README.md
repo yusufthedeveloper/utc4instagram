@@ -5,9 +5,15 @@ Bu program instagram yorumu yapan kullanıcıdan  kullanıcı etiketlerini (örn
 
 **Kullanımı :**
 1 - Yarışma gönderisi paylaşın (yoruma en çok etiket atan kazanır) şeklinde.
+
 2 - Bir kaç kişiyi başka bir yorumda gönderinizde etiketleyin
+
 3 - Gönderinizi gönderi linki kısmına yazın ve "Yarışma Düzenle" butonuna tıklayın ve obs entegrasyonunu açın
+
 4 - Yarışma bitene kadar uygulama açık durması gerekiyor bunun için işlemleri vds üzerinden yapmanızı öneririz.
+
 5 - Yarışmayı bitirme kararı alırsanız ilk baş masaüstündeki obs metin dosyasını sonuçlar olarak yeniden adlandırın.
+
 6 - Sonra "Yarışmayı Bitir" butonuna basarak programın çalışmasını sonlandırın.
+
 7 - sonuçlar.txt dosyasında sonuçlar listelenmiştir hayırlı olsun !!
