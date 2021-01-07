@@ -4,6 +4,7 @@ Bu program instagram yorumu yapan kullanıcıdan  kullanıcı etiketlerini (örn
 ![Program Image](https://imgur.com/download/lOjI5VN/)
 
 **Kullanımı :**
+
 1 - Yarışma gönderisi paylaşın (yoruma en çok etiket atan kazanır) şeklinde.
 
 2 - Bir kaç kişiyi başka bir yorumda gönderinizde etiketleyin
