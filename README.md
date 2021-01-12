@@ -28,5 +28,6 @@ Bu program instagram yorumu yapan kullanıcıdan  kullanıcı etiketlerini (örn
 Çalışmalarımızı ücretsiz ve açık kaynaklı yayınlayarak sizi karşılıksız seviyoruz sizde bizi seviyosanız aşağidaki bağış kanallarından bağış yapabilirisiniz:
 
 **Papara cüzdan kodu :** 7552529826
+**Bitcoin :** 13sPGkyhdU6UqpozJMK73uw3EVSGstMfj6
 
 
