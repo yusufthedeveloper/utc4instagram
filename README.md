@@ -29,6 +29,4 @@ Bu program instagram yorumu yapan kullanıcıdan  kullanıcı etiketlerini (örn
 
 **Papara cüzdan kodu :** 7552529826
 
-**Bitcoin :** 13sPGkyhdU6UqpozJMK73uw3EVSGstMfj6
-
 
